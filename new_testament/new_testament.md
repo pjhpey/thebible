@@ -2,8 +2,8 @@
 layout: default
 title: New testament
 has_children: true
-has_toc: true
 nav_order: 2
+permalink: /new_testament
 ---
 
-# Old testament
+# New testament
